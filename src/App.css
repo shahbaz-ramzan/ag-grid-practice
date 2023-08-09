@@ -1,0 +1,9 @@
+/* h1 {
+  display: flex;
+  justify-content: center;
+} */
+
+.ag-theme-alpine {
+  /* text-align: center; */
+  font-family: sans-serif;
+}
