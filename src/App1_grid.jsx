@@ -30,8 +30,6 @@ function App1_grid() {
   ]);
   return (
     <div className="ag-theme-alpine" style={{ height: 556, width: 850 }}>
-      {/* <AgGridReact rowData={rowData} columnDefs={columnDefs}></AgGridReact> */}
-      {/* <AgGridReact rowData={rowData} columnDefs={columnDefs}></AgGridReact> */}
       <AgGridReact rowData={rowData} columnDefs={columnDefs}></AgGridReact>
     </div>
   );

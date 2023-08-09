@@ -478,6 +478,11 @@ ag-grid-community@^30.0.6:
   resolved "https://registry.yarnpkg.com/ag-grid-community/-/ag-grid-community-30.0.6.tgz#886996d9edcfea0eb80135adbb4aa8a79be93a8f"
   integrity sha512-aMTJNXFDC00QxMaI0/V6M0GTzAtsXUvuxuld97S1Kqb4LvFNsycZlQ3/IcHW7JangRQZxAcwmSpBQBV/lcWoEg==
 
+ag-grid-enterprise@^30.0.6:
+  version "30.0.6"
+  resolved "https://registry.yarnpkg.com/ag-grid-enterprise/-/ag-grid-enterprise-30.0.6.tgz#05c0181ad072b791a5ac153a4cb6a20ba6374930"
+  integrity sha512-IdHG1ES1yjgYqaXzyEdMPSr/ORgw7IoL+XJ/YsgdCKuhjm/YrQb47IcxL4OL6CQQzRq4TrXAaqarfHvljqAvbg==
+
 ag-grid-react@^30.0.6:
   version "30.0.6"
   resolved "https://registry.npmjs.org/ag-grid-react/-/ag-grid-react-30.0.6.tgz"
